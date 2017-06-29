@@ -1,0 +1,11 @@
+server:
+  port: 8761 
+spring:
+  cloud:
+    config:
+      uri: http://localhost:8001
+  application:
+    name: eureka-server
+#eureka:
+ # server:
+  #  enableSelfPreservation: false

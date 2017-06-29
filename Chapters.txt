@@ -1,0 +1,15 @@
+Messaging-->D:\HK\eBooks\DOWNLOADED_FROM_SAFARI\SpringMicroservices\spring-microservices-ch037.mhtml
+----------------------------------------------------------------------------------------------------
+SPRING SWAGGER
+	http://heidloff.net/article/usage-of-swagger-2-0-in-spring-boot-applications-to-document-apis/
+	https://springfox.github.io/springfox/docs/current/#usage-guide
+----------------------------------------------------------------------------------------------------
+
+http://www.oresteluci.com/java-rest-xml-json-response/
+
+
+Developing Java Microservices Book
+D:\HK\eBooks\DOWNLOADED_FROM_SAFARI\mastering-microservices-with-java\mastering-microservices-with-ch034.mhtml
+
+1234
+

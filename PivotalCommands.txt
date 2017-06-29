@@ -1,0 +1,6 @@
+cf update-service FDC-CONFIG-SERVER -c {"git": { "uri": "https://github.com/saibalghosh1980/AllConfig" } }
+cf update-service FDC-CONFIG-SERVER -c "D://gitconfig.json"
+cf set-env sample-config-client SPRING_PROFILES_ACTIVE production
+cf push sample-config-client -d cfapps.io -p ".\build\libs\CTSMSConfigServerClient-0.0.1.jar"
+cf restage sample-config-client
+cf bind-service sample-config-client FDC-CONFIG-SERVER

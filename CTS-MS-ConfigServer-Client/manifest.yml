@@ -1,0 +1,7 @@
+applications:
+- buildpack: java_buildpack
+  name: sample-config-client
+  env:
+    SPRING_PROFILES_ACTIVE: production
+  services:
+  - FDC-CONFIG-SERVER

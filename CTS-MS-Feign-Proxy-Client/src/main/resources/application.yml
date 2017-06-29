@@ -1,0 +1,5 @@
+#server:
+ # port: 8009
+#freign-proxy:
+ # ribbon:
+  #  listOfServers: localhost:8002,localhost:8003
